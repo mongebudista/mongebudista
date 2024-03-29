@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-![gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3F2am1ndDVib2dsd2lpYXdiMTQ3OXFsc2tzdWUzZ2Q4OHE5dGoxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9jNjhwA5S4zMQ/giphy.gif)
+<img src="https://static.wikia.nocookie.net/8e22c7d6-b872-43cd-8f01-c760e280760f/scale-to-width/755" alt="vegeta" width=300 heigh=180/>
 
 
